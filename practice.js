@@ -18,7 +18,7 @@ const me = {
   age : 25
 };
 
-console.log(me.name);
+alert(me.name);
 
 
 
@@ -55,7 +55,7 @@ favoriteThings.brand = 'Google';
 favoriteThings.food = 'Chicken Nuggets';
 favoriteThings.book = 'Harry Potter';
 
-
+console.log(favoriteThings);
 
 ////////// PROBLEM 3 //////////
 
